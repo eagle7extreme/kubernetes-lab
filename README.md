@@ -7,4 +7,4 @@
 
 # K8S Labs
 Conjunto de proyectos relacionados para preubas de laboratorio con Kubernetes
-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
+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
